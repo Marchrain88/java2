@@ -7,7 +7,7 @@ public interface UserDao {
     根据用户名  查询用户信息
      */
     public User findByUsername(String username);
-
+ int a =10;
     /*
     用来保存用户
      */
