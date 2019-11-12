@@ -16,4 +16,6 @@ public interface UserDao {
     User findByUsernameAndPassword(String username, String password);
 
     int b =200;
+    int c =200;
+    int d =200;
 }
