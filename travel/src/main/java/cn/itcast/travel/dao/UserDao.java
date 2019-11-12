@@ -18,4 +18,5 @@ public interface UserDao {
     int b =200;
     int c =200;
     int d =200;
+    int e =200;
 }
